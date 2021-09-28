@@ -12,6 +12,10 @@ Some references to material used in password cracking
 ## Wordlists
 
   - [Weakpass](https://weakpass.com/)
+  - [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+  - [RockYou2021](https://github.com/ohmybahgosh/RockYou2021.txt)
+  - [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
+  - [md5decrypt](https://md5decrypt.net/en/Password-cracking-wordlist-download/)
 
 
 <div id="sec-hashcat" />
